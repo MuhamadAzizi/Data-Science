@@ -5,7 +5,7 @@ library(ggplot2)
 
 # Import dataset
 
-dataset <- read.csv("../dataset/2019_nC0v_20200121_20200126 - SUMMARY_FIX_MISS.csv")
+dataset <- read.csv("../datasets/2019_nC0v_20200121_20200126 - SUMMARY_FIX_MISS.csv")
 
 # Create dataset based on day of date in dataset
 
@@ -44,7 +44,7 @@ plot <-
   facet_wrap(~type) +
   labs(
     title = "Comparison of nCov-19",
-    subtitle = "Comparison of nCov-19 at Jan 22 - Jan 26, 2020",
+    subtitle = "Comparison of nCov-19 at Jan 21 - Jan 26, 2020",
     fill = ""
   ) +
   xlab("Date") + ylab("Value") +
