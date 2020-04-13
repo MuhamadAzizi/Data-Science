@@ -1,0 +1,369 @@
+Province/State,Country,Date last updated,Confirmed,Suspected,Recovered,Deaths
+Shanghai,Mainland China,2020-01-21 00:00:00,9.0,10.0,0.0,0.0
+Yunnan,Mainland China,2020-01-21 00:00:00,1.0,0.0,0.0,0.0
+Beijing,Mainland China,2020-01-21 00:00:00,10.0,0.0,0.0,0.0
+Taiwan,Mainland China,2020-01-21 00:00:00,1.0,0.0,0.0,0.0
+Jilin,Mainland China,2020-01-21 00:00:00,0.0,1.0,0.0,0.0
+Sichuan,Mainland China,2020-01-21 00:00:00,2.0,1.0,0.0,0.0
+Tianjin,Mainland China,2020-01-21 00:00:00,2.0,0.0,0.0,0.0
+Ningxia,Mainland China,2020-01-21 00:00:00,0.0,1.0,0.0,0.0
+Anhui,Mainland China,2020-01-21 00:00:00,0.0,3.0,0.0,0.0
+Shandong,Mainland China,2020-01-21 00:00:00,1.0,0.0,0.0,0.0
+Guangdong,Mainland China,2020-01-21 00:00:00,17.0,4.0,0.0,0.0
+Guangxi,Mainland China,2020-01-21 00:00:00,0.0,1.0,0.0,0.0
+Jiangxi,Mainland China,2020-01-21 00:00:00,2.0,0.0,0.0,0.0
+Henan,Mainland China,2020-01-21 00:00:00,1.0,0.0,0.0,0.0
+Zhejiang,Mainland China,2020-01-21 00:00:00,5.0,16.0,0.0,0.0
+Hainan,Mainland China,2020-01-21 00:00:00,0.0,1.0,0.0,0.0
+Hubei,Mainland China,2020-01-21 00:00:00,270.0,11.0,0.0,0.0
+Hunan,Mainland China,2020-01-21 00:00:00,1.0,0.0,0.0,0.0
+Guizhou,Mainland China,2020-01-21 00:00:00,0.0,1.0,0.0,0.0
+Liaoning,Mainland China,2020-01-21 00:00:00,0.0,1.0,0.0,0.0
+Chongqing,Mainland China,2020-01-21 00:00:00,5.0,0.0,0.0,0.0
+Hong Kong,Mainland China,2020-01-21 00:00:00,0.0,117.0,0.0,0.0
+Heilongjiang,Mainland China,2020-01-21 00:00:00,0.0,1.0,0.0,0.0
+Unknown,Japan,2020-01-21 00:00:00,1.0,0.0,0.0,0.0
+Unknown,Thailand,2020-01-21 00:00:00,2.0,0.0,0.0,0.0
+Unknown,South Korea,2020-01-21 00:00:00,1.0,0.0,0.0,0.0
+Washington,United States,2020-01-21 00:00:00,1.0,0.0,0.0,0.0
+Anhui,Mainland China,2020-01-22 12:00:00,1.0,4.0,0.0,0.0
+Beijing,Mainland China,2020-01-22 12:00:00,14.0,0.0,0.0,0.0
+Chongqing,Mainland China,2020-01-22 12:00:00,6.0,0.0,0.0,0.0
+Fujian,Mainland China,2020-01-22 12:00:00,1.0,0.0,0.0,0.0
+Gansu,Mainland China,2020-01-22 12:00:00,0.0,0.0,0.0,0.0
+Guangdong,Mainland China,2020-01-22 12:00:00,26.0,1.0,0.0,0.0
+Guangxi,Mainland China,2020-01-22 12:00:00,2.0,1.0,0.0,0.0
+Guizhou,Mainland China,2020-01-22 12:00:00,1.0,0.0,0.0,0.0
+Hainan,Mainland China,2020-01-22 12:00:00,4.0,0.0,0.0,0.0
+Hebei,Mainland China,2020-01-22 12:00:00,1.0,0.0,0.0,0.0
+Heilongjiang,Mainland China,2020-01-22 12:00:00,0.0,1.0,0.0,0.0
+Henan,Mainland China,2020-01-22 12:00:00,5.0,0.0,0.0,0.0
+Hong Kong,Mainland China,2020-01-22 12:00:00,0.0,117.0,0.0,0.0
+Hubei,Mainland China,2020-01-22 12:00:00,444.0,0.0,0.0,0.0
+Hunan,Mainland China,2020-01-22 12:00:00,4.0,0.0,0.0,0.0
+Inner Mongolia,Mainland China,2020-01-22 12:00:00,0.0,0.0,0.0,0.0
+Jiangsu,Mainland China,2020-01-22 12:00:00,1.0,0.0,0.0,0.0
+Jiangxi,Mainland China,2020-01-22 12:00:00,2.0,0.0,0.0,0.0
+Jilin,Mainland China,2020-01-22 12:00:00,0.0,1.0,0.0,0.0
+Liaoning,Mainland China,2020-01-22 12:00:00,2.0,0.0,0.0,0.0
+Macau,Mainland China,2020-01-22 12:00:00,1.0,0.0,0.0,0.0
+Ningxia,Mainland China,2020-01-22 12:00:00,1.0,0.0,0.0,0.0
+Qinghai,Mainland China,2020-01-22 12:00:00,0.0,0.0,0.0,0.0
+Shaanxi,Mainland China,2020-01-22 12:00:00,0.0,0.0,0.0,0.0
+Shandong,Mainland China,2020-01-22 12:00:00,2.0,0.0,0.0,0.0
+Shanghai,Mainland China,2020-01-22 12:00:00,9.0,10.0,0.0,0.0
+Shanxi,Mainland China,2020-01-22 12:00:00,1.0,0.0,0.0,0.0
+Sichuan,Mainland China,2020-01-22 12:00:00,5.0,2.0,0.0,0.0
+Taiwan,Mainland China,2020-01-22 12:00:00,1.0,0.0,0.0,0.0
+Tianjin,Mainland China,2020-01-22 12:00:00,4.0,0.0,0.0,0.0
+Tibet,China,2020-01-22 12:00:00,0.0,0.0,0.0,0.0
+Washington,US,2020-01-22 12:00:00,1.0,0.0,0.0,0.0
+Xinjiang,Mainland China,2020-01-22 12:00:00,0.0,0.0,0.0,0.0
+Yunnan,Mainland China,2020-01-22 12:00:00,1.0,0.0,0.0,0.0
+Zhejiang,Mainland China,2020-01-22 12:00:00,10.0,0.0,0.0,0.0
+Unknown,Japan,2020-01-22 12:00:00,2.0,0.0,0.0,0.0
+Unknown,Thailand,2020-01-22 12:00:00,2.0,0.0,0.0,0.0
+Unknown,South Korea,2020-01-22 12:00:00,1.0,0.0,0.0,0.0
+Anhui,Mainland China,2020-01-23 12:00:00,9.0,4.0,0.0,0.0
+Beijing,Mainland China,2020-01-23 12:00:00,22.0,0.0,0.0,0.0
+Chongqing,Mainland China,2020-01-23 12:00:00,9.0,0.0,0.0,0.0
+Fujian,Mainland China,2020-01-23 12:00:00,5.0,2.0,0.0,0.0
+Gansu,Mainland China,2020-01-23 12:00:00,2.0,0.0,0.0,0.0
+Guangdong,Mainland China,2020-01-23 12:00:00,32.0,1.0,2.0,0.0
+Guangxi,Mainland China,2020-01-23 12:00:00,5.0,0.0,0.0,0.0
+Guizhou,Mainland China,2020-01-23 12:00:00,3.0,0.0,0.0,0.0
+Hainan,Mainland China,2020-01-23 12:00:00,5.0,32.0,0.0,0.0
+Hebei,Mainland China,2020-01-23 12:00:00,1.0,0.0,0.0,1.0
+Heilongjiang,Mainland China,2020-01-23 12:00:00,2.0,0.0,0.0,0.0
+Henan,Mainland China,2020-01-23 12:00:00,5.0,0.0,0.0,0.0
+Hong Kong,Hong Kong,2020-01-23 12:00:00,2.0,65.0,0.0,0.0
+Hubei,Mainland China,2020-01-23 12:00:00,444.0,0.0,28.0,17.0
+Hunan,Mainland China,2020-01-23 12:00:00,9.0,0.0,0.0,0.0
+Inner Mongolia,Mainland China,2020-01-23 12:00:00,0.0,1.0,0.0,0.0
+Jiangsu,Mainland China,2020-01-23 12:00:00,5.0,0.0,0.0,0.0
+Jiangxi,Mainland China,2020-01-23 12:00:00,7.0,0.0,0.0,0.0
+Jilin,Mainland China,2020-01-23 12:00:00,1.0,0.0,0.0,0.0
+Liaoning,Mainland China,2020-01-23 12:00:00,3.0,0.0,0.0,0.0
+Macau,Macau,2020-01-23 12:00:00,2.0,0.0,0.0,0.0
+Ningxia,Mainland China,2020-01-23 12:00:00,1.0,0.0,0.0,0.0
+Qinghai,Mainland China,2020-01-23 12:00:00,0.0,0.0,0.0,0.0
+Shaanxi,Mainland China,2020-01-23 12:00:00,3.0,1.0,0.0,0.0
+Shandong,Mainland China,2020-01-23 12:00:00,6.0,2.0,0.0,0.0
+Shanghai,Mainland China,2020-01-23 12:00:00,16.0,22.0,0.0,0.0
+Shanxi,Mainland China,2020-01-23 12:00:00,1.0,0.0,0.0,0.0
+Sichuan,Mainland China,2020-01-23 12:00:00,8.0,2.0,0.0,0.0
+Taiwan,Taiwan,2020-01-23 12:00:00,1.0,0.0,0.0,0.0
+Tianjin,Mainland China,2020-01-23 12:00:00,4.0,0.0,0.0,0.0
+Tibet,Mainland China,2020-01-23 12:00:00,0.0,0.0,0.0,0.0
+Washington,US,2020-01-23 12:00:00,1.0,0.0,0.0,0.0
+Xinjiang,Mainland China,2020-01-23 12:00:00,2.0,0.0,0.0,0.0
+Yunnan,Mainland China,2020-01-23 12:00:00,2.0,0.0,0.0,0.0
+Zhejiang,Mainland China,2020-01-23 12:00:00,27.0,0.0,0.0,0.0
+Unknown,Japan,2020-01-23 12:00:00,1.0,0.0,0.0,0.0
+Unknown,Thailand,2020-01-23 12:00:00,3.0,0.0,0.0,0.0
+Unknown,South Korea,2020-01-23 12:00:00,1.0,0.0,0.0,0.0
+Unknown,Singapore,2020-01-23 12:00:00,1.0,0.0,0.0,0.0
+Unknown,Philippines,2020-01-23 12:00:00,0.0,4.0,0.0,0.0
+Unknown,Malaysia,2020-01-23 12:00:00,0.0,4.0,0.0,0.0
+Unknown,Vietnam,2020-01-23 12:00:00,2.0,0.0,0.0,0.0
+Unknown,Australia,2020-01-23 12:00:00,0.0,1.0,0.0,0.0
+Unknown,Mexico,2020-01-23 12:00:00,0.0,1.0,0.0,0.0
+Unknown,Brazil,2020-01-23 12:00:00,0.0,1.0,0.0,0.0
+Unknown,Colombia,2020-01-23 12:00:00,0.0,1.0,0.0,0.0
+Hubei,Mainland China,2020-01-24 00:00:00,549.0,0.0,31.0,24.0
+Guangdong,Mainland China,2020-01-24 00:00:00,53.0,0.0,2.0,0.0
+Zhejiang,Mainland China,2020-01-24 00:00:00,43.0,0.0,1.0,0.0
+Beijing,Mainland China,2020-01-24 00:00:00,26.0,22.0,0.0,0.0
+Shanghai,Mainland China,2020-01-24 00:00:00,20.0,0.0,0.0,0.0
+Hunan,Mainland China,2020-01-24 00:00:00,24.0,0.0,0.0,0.0
+Anhui,Mainland China,2020-01-24 00:00:00,15.0,4.0,0.0,0.0
+Chongqing,Mainland China,2020-01-24 00:00:00,27.0,13.0,0.0,0.0
+Sichuan,Mainland China,2020-01-24 00:00:00,15.0,4.0,0.0,0.0
+Shandong,Mainland China,2020-01-24 00:00:00,9.0,0.0,0.0,0.0
+Guangxi,Mainland China,2020-01-24 00:00:00,13.0,0.0,0.0,0.0
+Fujian,Mainland China,2020-01-24 00:00:00,5.0,2.0,0.0,0.0
+Jiangsu,Mainland China,2020-01-24 00:00:00,9.0,0.0,0.0,0.0
+Henan,Mainland China,2020-01-24 00:00:00,9.0,0.0,0.0,0.0
+Hainan,Mainland China,2020-01-24 00:00:00,8.0,32.0,0.0,0.0
+Tianjin,Mainland China,2020-01-24 00:00:00,5.0,0.0,0.0,0.0
+Jiangxi,Mainland China,2020-01-24 00:00:00,7.0,0.0,0.0,0.0
+Shaanxi,Mainland China,2020-01-24 00:00:00,3.0,0.0,0.0,0.0
+Guizhou,Mainland China,2020-01-24 00:00:00,3.0,0.0,0.0,0.0
+Liaoning,Mainland China,2020-01-24 00:00:00,4.0,0.0,0.0,0.0
+Hong Kong,Hong Kong,2020-01-24 00:00:00,2.0,36.0,0.0,0.0
+Heilongjiang,Mainland China,2020-01-24 00:00:00,4.0,0.0,0.0,1.0
+Macau,Macau,2020-01-24 00:00:00,2.0,0.0,0.0,0.0
+Xinjiang,Mainland China,2020-01-24 00:00:00,2.0,0.0,0.0,0.0
+Gansu,Mainland China,2020-01-24 00:00:00,2.0,0.0,0.0,0.0
+Yunnan,Mainland China,2020-01-24 00:00:00,2.0,0.0,0.0,0.0
+Taiwan,Taiwan,2020-01-24 00:00:00,1.0,0.0,0.0,0.0
+Shanxi,Mainland China,2020-01-24 00:00:00,1.0,0.0,0.0,0.0
+Jilin,Mainland China,2020-01-24 00:00:00,3.0,0.0,0.0,0.0
+Hebei,Mainland China,2020-01-24 00:00:00,2.0,0.0,0.0,1.0
+Ningxia,Mainland China,2020-01-24 00:00:00,1.0,0.0,0.0,0.0
+Inner Mongolia,Mainland China,2020-01-24 00:00:00,1.0,2.0,0.0,0.0
+Washington,US,2020-01-24 00:00:00,1.0,0.0,0.0,0.0
+Unknown,Japan,2020-01-24 00:00:00,2.0,0.0,0.0,0.0
+Unknown,Thailand,2020-01-24 00:00:00,4.0,0.0,0.0,0.0
+Unknown,South Korea,2020-01-24 00:00:00,1.0,0.0,0.0,0.0
+Unknown,Singapore,2020-01-24 00:00:00,1.0,0.0,0.0,0.0
+Unknown,Vietnam,2020-01-24 00:00:00,2.0,0.0,0.0,0.0
+Hubei,Mainland China,2020-01-24 12:00:00,549.0,0.0,31.0,24.0
+Guangdong,Mainland China,2020-01-24 12:00:00,53.0,0.0,2.0,0.0
+Zhejiang,Mainland China,2020-01-24 12:00:00,43.0,0.0,1.0,0.0
+Beijing,Mainland China,2020-01-24 12:00:00,36.0,0.0,1.0,0.0
+Chongqing,Mainland China,2020-01-24 12:00:00,27.0,13.0,0.0,0.0
+Hunan,Mainland China,2020-01-24 12:00:00,24.0,0.0,0.0,0.0
+Guangxi,Mainland China,2020-01-24 12:00:00,23.0,0.0,0.0,0.0
+Shanghai,Mainland China,2020-01-24 12:00:00,20.0,22.0,1.0,0.0
+Jiangxi,Mainland China,2020-01-24 12:00:00,18.0,0.0,0.0,0.0
+Sichuan,Mainland China,2020-01-24 12:00:00,15.0,4.0,0.0,0.0
+Shandong,Mainland China,2020-01-24 12:00:00,15.0,0.0,0.0,0.0
+Anhui,Mainland China,2020-01-24 12:00:00,15.0,4.0,0.0,0.0
+Fujian,Mainland China,2020-01-24 12:00:00,10.0,2.0,0.0,0.0
+Henan,Mainland China,2020-01-24 12:00:00,9.0,42.0,0.0,0.0
+Jiangsu,Mainland China,2020-01-24 12:00:00,9.0,0.0,0.0,0.0
+Hainan,Mainland China,2020-01-24 12:00:00,8.0,32.0,0.0,0.0
+Tianjin,Mainland China,2020-01-24 12:00:00,8.0,0.0,0.0,0.0
+Yunnan,Mainland China,2020-01-24 12:00:00,5.0,0.0,0.0,0.0
+Shaanxi,Mainland China,2020-01-24 12:00:00,5.0,0.0,0.0,0.0
+Heilongjiang,Mainland China,2020-01-24 12:00:00,4.0,0.0,0.0,1.0
+Liaoning,Mainland China,2020-01-24 12:00:00,4.0,0.0,0.0,0.0
+Guizhou,Mainland China,2020-01-24 12:00:00,3.0,0.0,0.0,0.0
+Jilin,Mainland China,2020-01-24 12:00:00,3.0,0.0,0.0,0.0
+Taiwan,Taiwan,2020-01-24 12:00:00,3.0,0.0,0.0,0.0
+Ningxia,Mainland China,2020-01-24 12:00:00,2.0,1.0,0.0,0.0
+Hong Kong,Hong Kong,2020-01-24 12:00:00,2.0,36.0,0.0,0.0
+Macau,Macau,2020-01-24 12:00:00,2.0,0.0,0.0,0.0
+Hebei,Mainland China,2020-01-24 12:00:00,2.0,0.0,0.0,1.0
+Gansu,Mainland China,2020-01-24 12:00:00,2.0,0.0,0.0,0.0
+Xinjiang,Mainland China,2020-01-24 12:00:00,2.0,0.0,0.0,0.0
+Shanxi,Mainland China,2020-01-24 12:00:00,1.0,0.0,0.0,0.0
+Inner Mongolia,Mainland China,2020-01-24 12:00:00,1.0,2.0,0.0,0.0
+Qinghai,Mainland China,2020-01-24 12:00:00,0.0,1.0,0.0,0.0
+Washington,US,2020-01-24 12:00:00,1.0,0.0,0.0,0.0
+Chicago,US,2020-01-24 12:00:00,1.0,0.0,0.0,0.0
+Unknown,Japan,2020-01-24 12:00:00,2.0,0.0,0.0,0.0
+Unknown,Thailand,2020-01-24 12:00:00,5.0,0.0,0.0,0.0
+Unknown,South Korea,2020-01-24 12:00:00,2.0,0.0,0.0,0.0
+Unknown,Singapore,2020-01-24 12:00:00,3.0,0.0,0.0,0.0
+Unknown,Vietnam,2020-01-24 12:00:00,2.0,0.0,0.0,0.0
+Unknown,France,2020-01-24 16:00:00,2.0,0.0,0.0,0.0
+Hubei,Mainland China,2020-01-25 00:00:00,729.0,0.0,32.0,39.0
+Guangdong,Mainland China,2020-01-25 00:00:00,78.0,0.0,2.0,0.0
+Zhejiang,Mainland China,2020-01-25 00:00:00,62.0,0.0,1.0,0.0
+Chongqing,Mainland China,2020-01-25 00:00:00,57.0,0.0,0.0,0.0
+Hunan,Mainland China,2020-01-25 00:00:00,43.0,0.0,0.0,0.0
+Anhui,Mainland China,2020-01-25 00:00:00,39.0,4.0,0.0,0.0
+Beijing,Mainland China,2020-01-25 00:00:00,36.0,0.0,1.0,0.0
+Shanghai,Mainland China,2020-01-25 00:00:00,33.0,22.0,1.0,0.0
+Henan,Mainland China,2020-01-25 00:00:00,32.0,1.0,0.0,0.0
+Sichuan,Mainland China,2020-01-25 00:00:00,28.0,4.0,0.0,0.0
+Guangxi,Mainland China,2020-01-25 00:00:00,23.0,0.0,0.0,0.0
+Shandong,Mainland China,2020-01-25 00:00:00,21.0,0.0,0.0,0.0
+Jiangxi,Mainland China,2020-01-25 00:00:00,18.0,0.0,0.0,0.0
+Jiangsu,Mainland China,2020-01-25 00:00:00,18.0,0.0,1.0,0.0
+Hainan,Mainland China,2020-01-25 00:00:00,17.0,0.0,0.0,0.0
+Liaoning,Mainland China,2020-01-25 00:00:00,15.0,0.0,0.0,0.0
+Fujian,Mainland China,2020-01-25 00:00:00,10.0,4.0,0.0,0.0
+Heilongjiang,Mainland China,2020-01-25 00:00:00,9.0,0.0,0.0,1.0
+Tianjin,Mainland China,2020-01-25 00:00:00,8.0,0.0,0.0,0.0
+Hebei,Mainland China,2020-01-25 00:00:00,8.0,0.0,0.0,1.0
+Shanxi,Mainland China,2020-01-25 00:00:00,6.0,0.0,0.0,0.0
+Yunnan,Mainland China,2020-01-25 00:00:00,5.0,0.0,0.0,0.0
+Hong Kong,Hong Kong,2020-01-25 00:00:00,5.0,36.0,0.0,0.0
+Shaanxi,Mainland China,2020-01-25 00:00:00,5.0,0.0,0.0,0.0
+Guizhou,Mainland China,2020-01-25 00:00:00,4.0,0.0,0.0,0.0
+Jilin,Mainland China,2020-01-25 00:00:00,4.0,0.0,0.0,0.0
+Gansu,Mainland China,2020-01-25 00:00:00,4.0,0.0,0.0,0.0
+Ningxia,Mainland China,2020-01-25 00:00:00,3.0,1.0,0.0,0.0
+Taiwan,Taiwan,2020-01-25 00:00:00,3.0,0.0,0.0,0.0
+Xinjiang,Mainland China,2020-01-25 00:00:00,3.0,0.0,0.0,0.0
+Macau,Macau,2020-01-25 00:00:00,2.0,0.0,0.0,0.0
+Inner Mongolia,Mainland China,2020-01-25 00:00:00,2.0,0.0,0.0,0.0
+Qinghai,Mainland China,2020-01-25 00:00:00,0.0,1.0,0.0,0.0
+Washington,US,2020-01-25 00:00:00,1.0,0.0,0.0,0.0
+Illinois,US,2020-01-25 00:00:00,1.0,0.0,0.0,0.0
+Unknown,Japan,2020-01-25 00:00:00,2.0,0.0,0.0,0.0
+Unknown,Thailand,2020-01-25 00:00:00,5.0,0.0,0.0,0.0
+Unknown,South Korea,2020-01-25 00:00:00,2.0,0.0,0.0,0.0
+Unknown,Singapore,2020-01-25 00:00:00,3.0,0.0,0.0,0.0
+Unknown,Vietnam,2020-01-25 00:00:00,2.0,0.0,0.0,0.0
+Unknown,France,2020-01-25 00:00:00,3.0,0.0,0.0,0.0
+Unknown,Australia,2020-01-25 00:00:00,1.0,0.0,0.0,0.0
+Unknown,Nepal,2020-01-25 00:00:00,1.0,0.0,0.0,0.0
+Unknown,Malaysia,2020-01-25 00:00:00,3.0,0.0,0.0,0.0
+Hubei,Mainland China,2020-01-25 12:00:00,761.0,0.0,32.0,40.0
+Guangdong,Mainland China,2020-01-25 12:00:00,78.0,0.0,2.0,0.0
+Zhejiang,Mainland China,2020-01-25 12:00:00,62.0,0.0,1.0,0.0
+Chongqing,Mainland China,2020-01-25 12:00:00,57.0,0.0,0.0,0.0
+Hunan,Mainland China,2020-01-25 12:00:00,43.0,0.0,0.0,0.0
+Beijing,Mainland China,2020-01-25 12:00:00,41.0,0.0,2.0,0.0
+Anhui,Mainland China,2020-01-25 12:00:00,39.0,4.0,0.0,0.0
+Shanghai,Mainland China,2020-01-25 12:00:00,33.0,72.0,1.0,0.0
+Henan,Mainland China,2020-01-25 12:00:00,32.0,1.0,0.0,0.0
+Sichuan,Mainland China,2020-01-25 12:00:00,28.0,4.0,0.0,0.0
+Shandong,Mainland China,2020-01-25 12:00:00,27.0,0.0,0.0,0.0
+Guangxi,Mainland China,2020-01-25 12:00:00,23.0,0.0,0.0,0.0
+Hainan,Mainland China,2020-01-25 12:00:00,19.0,0.0,0.0,0.0
+Jiangxi,Mainland China,2020-01-25 12:00:00,18.0,0.0,0.0,0.0
+Fujian,Mainland China,2020-01-25 12:00:00,18.0,20.0,0.0,0.0
+Jiangsu,Mainland China,2020-01-25 12:00:00,18.0,0.0,1.0,0.0
+Liaoning,Mainland China,2020-01-25 12:00:00,17.0,0.0,0.0,0.0
+Shaanxi,Mainland China,2020-01-25 12:00:00,15.0,0.0,0.0,0.0
+Yunnan,Mainland China,2020-01-25 12:00:00,11.0,58.0,0.0,0.0
+Tianjin,Mainland China,2020-01-25 12:00:00,10.0,0.0,0.0,0.0
+Heilongjiang,Mainland China,2020-01-25 12:00:00,9.0,0.0,0.0,1.0
+Hebei,Mainland China,2020-01-25 12:00:00,8.0,0.0,0.0,1.0
+Inner Mongolia,Mainland China,2020-01-25 12:00:00,7.0,0.0,0.0,0.0
+Shanxi,Mainland China,2020-01-25 12:00:00,6.0,0.0,0.0,0.0
+Hong Kong,Hong Kong,2020-01-25 12:00:00,5.0,244.0,0.0,0.0
+Guizhou,Mainland China,2020-01-25 12:00:00,4.0,0.0,0.0,0.0
+Jilin,Mainland China,2020-01-25 12:00:00,4.0,0.0,0.0,0.0
+Gansu,Mainland China,2020-01-25 12:00:00,4.0,0.0,0.0,0.0
+Ningxia,Mainland China,2020-01-25 12:00:00,3.0,1.0,0.0,0.0
+Taiwan,Taiwan,2020-01-25 12:00:00,3.0,0.0,0.0,0.0
+Xinjiang,Mainland China,2020-01-25 12:00:00,3.0,0.0,0.0,0.0
+Macau,Macau,2020-01-25 12:00:00,2.0,0.0,0.0,0.0
+Qinghai,Mainland China,2020-01-25 12:00:00,1.0,0.0,0.0,0.0
+Washington,US,2020-01-25 12:00:00,1.0,0.0,0.0,0.0
+Illinois,US,2020-01-25 12:00:00,1.0,0.0,0.0,0.0
+Unknown,Japan,2020-01-25 12:00:00,2.0,0.0,0.0,0.0
+Unknown,Thailand,2020-01-25 12:00:00,7.0,0.0,0.0,0.0
+Unknown,South Korea,2020-01-25 12:00:00,2.0,0.0,0.0,0.0
+Unknown,Singapore,2020-01-25 12:00:00,3.0,0.0,0.0,0.0
+Unknown,Vietnam,2020-01-25 12:00:00,2.0,0.0,0.0,0.0
+Unknown,France,2020-01-25 12:00:00,3.0,0.0,0.0,0.0
+Unknown,Australia,2020-01-25 12:00:00,4.0,0.0,0.0,0.0
+Unknown,Nepal,2020-01-25 12:00:00,1.0,0.0,0.0,0.0
+Unknown,Malaysia,2020-01-25 12:00:00,3.0,0.0,0.0,0.0
+Hubei,Mainland China,2020-01-25 22:00:00,1052.0,0.0,42.0,52.0
+Zhejiang,Mainland China,2020-01-25 22:00:00,104.0,0.0,1.0,0.0
+Guangdong,Mainland China,2020-01-25 12:00:00,98.0,0.0,2.0,0.0
+Henan,Mainland China,2020-01-25 12:00:00,83.0,3.0,0.0,1.0
+Chongqing,Mainland China,2020-01-25 12:00:00,75.0,0.0,0.0,0.0
+Hunan,Mainland China,2020-01-25 12:00:00,69.0,0.0,0.0,0.0
+Anhui,Mainland China,2020-01-25 12:00:00,60.0,4.0,0.0,0.0
+Beijing,Mainland China,2020-01-25 12:00:00,51.0,0.0,2.0,0.0
+Sichuan,Mainland China,2020-01-25 12:00:00,44.0,4.0,0.0,0.0
+Shanghai,Mainland China,2020-01-25 12:00:00,40.0,72.0,1.0,1.0
+Shandong,Mainland China,2020-01-25 12:00:00,39.0,0.0,0.0,0.0
+Jiangxi,Mainland China,2020-01-25 12:00:00,36.0,0.0,0.0,0.0
+Guangxi,Mainland China,2020-01-25 12:00:00,33.0,0.0,0.0,0.0
+Jiangsu,Mainland China,2020-01-25 12:00:00,31.0,0.0,1.0,0.0
+Hainan,Mainland China,2020-01-25 12:00:00,19.0,0.0,0.0,0.0
+Liaoning,Mainland China,2020-01-25 12:00:00,19.0,0.0,0.0,0.0
+Fujian,Mainland China,2020-01-25 12:00:00,18.0,20.0,0.0,1.0
+Heilongjiang,Mainland China,2020-01-25 12:00:00,15.0,0.0,0.0,0.0
+Shaanxi,Mainland China,2020-01-25 12:00:00,15.0,0.0,0.0,0.0
+Tianjin,Mainland China,2020-01-25 12:00:00,13.0,0.0,0.0,0.0
+Hebei,Mainland China,2020-01-25 12:00:00,13.0,0.0,0.0,1.0
+Yunnan,Mainland China,2020-01-25 12:00:00,11.0,58.0,0.0,0.0
+Shanxi,Mainland China,2020-01-25 12:00:00,9.0,0.0,0.0,0.0
+Inner Mongolia,Mainland China,2020-01-25 12:00:00,7.0,0.0,0.0,0.0
+Gansu,Mainland China,2020-01-25 12:00:00,7.0,0.0,0.0,0.0
+Guizhou,Mainland China,2020-01-25 12:00:00,5.0,0.0,0.0,0.0
+Hong Kong,Hong Kong,2020-01-25 12:00:00,5.0,244.0,0.0,0.0
+Ningxia,Mainland China,2020-01-25 12:00:00,4.0,1.0,0.0,0.0
+Jilin,Mainland China,2020-01-25 12:00:00,4.0,0.0,0.0,0.0
+Xinjiang,Mainland China,2020-01-25 12:00:00,4.0,0.0,0.0,0.0
+Taiwan,Taiwan,2020-01-25 12:00:00,3.0,0.0,0.0,0.0
+Macau,Macau,2020-01-25 12:00:00,2.0,0.0,0.0,0.0
+Qinghai,Mainland China,2020-01-25 12:00:00,1.0,0.0,0.0,0.0
+Washington,US,2020-01-25 12:00:00,1.0,0.0,0.0,0.0
+Illinois,US,2020-01-25 12:00:00,1.0,0.0,0.0,0.0
+Unknown,Japan,2020-01-25 12:00:00,2.0,0.0,0.0,0.0
+Unknown,Thailand,2020-01-25 12:00:00,7.0,0.0,0.0,0.0
+Unknown,South Korea,2020-01-25 12:00:00,3.0,0.0,0.0,0.0
+Unknown,Singapore,2020-01-25 12:00:00,3.0,0.0,0.0,0.0
+Unknown,Vietnam,2020-01-25 12:00:00,2.0,0.0,0.0,0.0
+Unknown,France,2020-01-25 12:00:00,3.0,0.0,0.0,0.0
+Unknown,Australia,2020-01-25 12:00:00,4.0,0.0,0.0,0.0
+Unknown,Nepal,2020-01-25 12:00:00,1.0,0.0,0.0,0.0
+Unknown,Malaysia,2020-01-25 12:00:00,3.0,0.0,0.0,0.0
+Hubei,Mainland China,2020-01-26 11:00:00,1058.0,0.0,42.0,52.0
+Guangdong,Mainland China,2020-01-26 11:00:00,111.0,0.0,2.0,0.0
+Zhejiang,Mainland China,2020-01-26 11:00:00,104.0,0.0,1.0,0.0
+Henan,Mainland China,2020-01-26 11:00:00,83.0,3.0,0.0,1.0
+Chongqing,Mainland China,2020-01-26 11:00:00,75.0,0.0,0.0,0.0
+Hunan,Mainland China,2020-01-26 11:00:00,69.0,0.0,0.0,0.0
+Beijing,Mainland China,2020-01-26 11:00:00,68.0,0.0,2.0,0.0
+Anhui,Mainland China,2020-01-26 11:00:00,60.0,4.0,0.0,0.0
+Shandong,Mainland China,2020-01-26 11:00:00,46.0,0.0,0.0,0.0
+Sichuan,Mainland China,2020-01-26 11:00:00,44.0,4.0,0.0,0.0
+Shanghai,Mainland China,2020-01-26 11:00:00,40.0,72.0,1.0,1.0
+Guangxi,Mainland China,2020-01-26 11:00:00,36.0,0.0,0.0,0.0
+Jiangxi,Mainland China,2020-01-26 11:00:00,36.0,0.0,0.0,0.0
+Fujian,Mainland China,2020-01-26 11:00:00,35.0,20.0,0.0,0.0
+Jiangsu,Mainland China,2020-01-26 11:00:00,33.0,0.0,1.0,0.0
+Hainan,Mainland China,2020-01-26 11:00:00,22.0,0.0,0.0,0.0
+Shaanxi,Mainland China,2020-01-26 11:00:00,22.0,0.0,0.0,0.0
+Liaoning,Mainland China,2020-01-26 11:00:00,21.0,0.0,0.0,0.0
+Yunnan,Mainland China,2020-01-26 11:00:00,16.0,36.0,0.0,0.0
+Heilongjiang,Mainland China,2020-01-26 11:00:00,15.0,0.0,0.0,1.0
+Tianjin,Mainland China,2020-01-26 11:00:00,14.0,0.0,0.0,0.0
+Hebei,Mainland China,2020-01-26 11:00:00,13.0,0.0,0.0,1.0
+Shanxi,Mainland China,2020-01-26 11:00:00,9.0,0.0,0.0,0.0
+Hong Kong,Hong Kong,2020-01-26 11:00:00,8.0,244.0,0.0,0.0
+Inner Mongolia,Mainland China,2020-01-26 11:00:00,7.0,0.0,0.0,0.0
+Gansu,Mainland China,2020-01-26 11:00:00,7.0,0.0,0.0,0.0
+Guizhou,Mainland China,2020-01-26 11:00:00,5.0,0.0,0.0,0.0
+Macau,Macau,2020-01-26 11:00:00,5.0,0.0,0.0,0.0
+Ningxia,Mainland China,2020-01-26 11:00:00,4.0,0.0,0.0,0.0
+Jilin,Mainland China,2020-01-26 11:00:00,4.0,0.0,0.0,0.0
+Taiwan,Taiwan,2020-01-26 11:00:00,4.0,0.0,0.0,0.0
+Xinjiang,Mainland China,2020-01-26 11:00:00,4.0,0.0,0.0,0.0
+Qinghai,Mainland China,2020-01-26 11:00:00,1.0,0.0,0.0,0.0
+Washington,US,2020-01-26 11:00:00,1.0,0.0,0.0,0.0
+Illinois,US,2020-01-26 11:00:00,1.0,0.0,0.0,0.0
+California,US,2020-01-26 11:00:00,1.0,0.0,0.0,0.0
+Unknown,Japan,2020-01-26 11:00:00,4.0,0.0,1.0,0.0
+Unknown,Thailand,2020-01-26 11:00:00,8.0,0.0,2.0,0.0
+Unknown,South Korea,2020-01-26 11:00:00,3.0,0.0,0.0,0.0
+Unknown,Singapore,2020-01-26 11:00:00,4.0,0.0,0.0,0.0
+Unknown,Vietnam,2020-01-26 11:00:00,2.0,0.0,0.0,0.0
+Unknown,France,2020-01-26 11:00:00,3.0,0.0,0.0,0.0
+Unknown,Australia,2020-01-26 11:00:00,4.0,0.0,0.0,0.0
+Unknown,Nepal,2020-01-26 11:00:00,1.0,0.0,0.0,0.0
+Unknown,Malaysia,2020-01-26 11:00:00,4.0,0.0,0.0,0.0
+Ontario,Canada,2020-01-26 11:00:00,1.0,0.0,0.0,0.0
