@@ -4,7 +4,7 @@ Repositori ini berisi tentang semua hal yang mengenai data science, dan sebagai 
 Berdasarkan dataset pada `2019_nC0v_20200121_20200126 - SUMMARY_FIX_MISS.csv` diperoleh suatu kesimpulan mengenai hal tersebut,
 bisa dilihat pada gambar berikut.
 
-![image](https://drive.google.com/uc?export=view&id=1s0fh2wzlNSd2SYD14VOWnBFJNToV8Hgw)
+![image](relative/R/plot_nCOV-19.png?raw=true)
 
 Dari grafik diatas, diketahui bahwa :
 - Periode pada grafik tersebut terjadi pada tanggal `21 - 26 Januari 2020`
