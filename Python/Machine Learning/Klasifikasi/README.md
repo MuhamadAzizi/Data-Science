@@ -94,7 +94,7 @@ df.shape
 
 
 
-
+    # Output
     (150, 6)
 
 
@@ -107,20 +107,6 @@ df.describe()
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -199,7 +185,6 @@ df.describe()
     </tr>
   </tbody>
 </table>
-</div>
 
 
 
@@ -218,7 +203,7 @@ df.drop('Id', axis=1, inplace=True)
 
 print(df['Species'].value_counts())
 ```
-
+    # Output
     Iris-setosa        50
     Iris-versicolor    50
     Iris-virginica     50
@@ -262,7 +247,7 @@ model.fit(X_train, y_train)
 
 
 
-
+    # Output
     DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=None,
                            max_features=None, max_leaf_nodes=None,
                            min_impurity_decrease=0.0, min_impurity_split=None,
@@ -286,7 +271,7 @@ mean_absolute_error(y_test, y_hat)
 
 
 
-
+    # Output
     0.03333333333333333
 
 
@@ -300,7 +285,7 @@ model.predict(X_test)
 
 
 
-
+    # Output
     array([0, 1, 1, 0, 2, 1, 2, 0, 0, 2, 1, 0, 2, 1, 1, 0, 1, 1, 0, 0, 1, 1,
            2, 0, 2, 1, 0, 0, 1, 2])
 
@@ -314,6 +299,6 @@ result = model.predict([[5.5, 3.1, 1.0, 0.3]])
 
 print(encoder.inverse_transform(result))
 ```
-
+    # Output
     ['Iris-setosa']
     
