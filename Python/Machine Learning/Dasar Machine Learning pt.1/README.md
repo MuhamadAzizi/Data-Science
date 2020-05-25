@@ -39,20 +39,7 @@ df.head()
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -204,7 +191,7 @@ df.head()
   </tbody>
 </table>
 <p>5 rows × 21 columns</p>
-</div>
+
 
 
 
@@ -220,7 +207,7 @@ df.shape
 
 
 
-
+    # Output
     (13580, 21)
 
 
@@ -232,7 +219,7 @@ df.columns
 
 
 
-
+    # Output
     Index(['Suburb', 'Address', 'Rooms', 'Type', 'Price', 'Method', 'SellerG',
            'Date', 'Distance', 'Postcode', 'Bedroom2', 'Bathroom', 'Car',
            'Landsize', 'BuildingArea', 'YearBuilt', 'CouncilArea', 'Lattitude',
@@ -253,20 +240,7 @@ df.describe()
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -417,7 +391,6 @@ df.describe()
     </tr>
   </tbody>
 </table>
-</div>
 
 
 
@@ -433,7 +406,7 @@ df.shape
 
 
 
-
+    # Output
     (6196, 21)
 
 
@@ -452,7 +425,7 @@ y
 
 
 
-
+    # Output
     1        1035000.0
     2        1465000.0
     4        1600000.0
@@ -488,20 +461,7 @@ X.describe()
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -580,7 +540,6 @@ X.describe()
     </tr>
   </tbody>
 </table>
-</div>
 
 
 
@@ -609,7 +568,7 @@ df_model.fit(X, y)
 
 
 
-
+    # Output
     DecisionTreeRegressor(criterion='mse', max_depth=None, max_features=None,
                           max_leaf_nodes=None, min_impurity_decrease=0.0,
                           min_impurity_split=None, min_samples_leaf=1,
@@ -627,7 +586,7 @@ df_model.predict(X.head())
 
 
 
-
+    # Output
     array([1035000., 1465000., 1600000., 1876000., 1636000.])
 
 
@@ -639,7 +598,7 @@ y.head()
 
 
 
-
+    # Output
     1    1035000.0
     2    1465000.0
     4    1600000.0
@@ -668,7 +627,7 @@ mean_absolute_error(y, y_hat)
 
 
 
-
+    # Output
     553.5829567462879
 
 
@@ -697,7 +656,7 @@ df_model.fit(X_train, y_train)
 
 
 
-
+    # Output
     DecisionTreeRegressor(criterion='mse', max_depth=None, max_features=None,
                           max_leaf_nodes=None, min_impurity_decrease=0.0,
                           min_impurity_split=None, min_samples_leaf=1,
@@ -716,7 +675,7 @@ mean_absolute_error(y_test, y_hat)
 
 
 
-
+    # Output
     305106.2569399613
 
 
@@ -739,7 +698,7 @@ for max_leaf_nodes in [5, 50, 500, 5000]:
     leaf_mae = get_mae(max_leaf_nodes, X_train, X_test, y_train, y_test)
     print(f'Max Leaf Nodes : {max_leaf_nodes} \t Mean Absolute Error : {int(leaf_mae)}')
 ```
-
+    # Output
     Max Leaf Nodes : 5 	 Mean Absolute Error : 326323
     Max Leaf Nodes : 50 	 Mean Absolute Error : 273920
     Max Leaf Nodes : 500 	 Mean Absolute Error : 279725
@@ -760,6 +719,6 @@ rf_model.fit(X_train, y_train)
 y_hat = rf_model.predict(X_test)
 print(f'Mean Absolute Error : {int(mean_absolute_error(y_test, y_hat))}')
 ```
-
+    # Output
     Mean Absolute Error : 218065
     
